@@ -138,6 +138,7 @@ img {
     padding: 0.6rem 2.5rem;
     border: 2px solid transparent;
     border-radius: var(--border-radius-2);
+    cursor: pointer;
 }
 
 .btn:hover {
