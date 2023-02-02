@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.35953bd9.css",
-    "main.js": "/react-portfolio/static/js/main.e879dddb.js",
-    "static/media/praveensingh.jpg": "/react-portfolio/static/media/praveensingh.f9fc19120f057a820d28.jpg",
-    "static/media/headerpraveen.jpg": "/react-portfolio/static/media/headerpraveen.507974c4ee255a7a156b.jpg",
-    "static/media/project9.jpg": "/react-portfolio/static/media/project9.7e10b78179ee665298cd.jpg",
-    "static/media/project6.jpg": "/react-portfolio/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
-    "static/media/project7.jpg": "/react-portfolio/static/media/project7.4389651d5816bb277c4a.jpg",
-    "static/media/project8.jpg": "/react-portfolio/static/media/project8.16ed43794953534af05c.jpg",
-    "static/media/project4.jpg": "/react-portfolio/static/media/project4.9e2e36250226a4ebb82b.jpg",
-    "static/media/project2.jpg": "/react-portfolio/static/media/project2.d4ca506cbd979283014a.jpg",
-    "static/media/project1.jpg": "/react-portfolio/static/media/project1.5cec46bd193a7eb80f22.jpg",
-    "static/media/project3.jpg": "/react-portfolio/static/media/project3.746fa9dfecfb9e491ef1.jpg",
-    "static/media/project5.jpg": "/react-portfolio/static/media/project5.fdd0c6a0d639a9c75455.jpg",
-    "static/media/Praveenpic.jpg": "/react-portfolio/static/media/Praveenpic.b3ccb3f37edf6b355c2e.jpg",
-    "static/media/update1resume.docx": "/react-portfolio/static/media/update1resume.cc1f28399a6637d86d6c.docx",
-    "index.html": "/react-portfolio/index.html",
-    "main.35953bd9.css.map": "/react-portfolio/static/css/main.35953bd9.css.map",
-    "main.e879dddb.js.map": "/react-portfolio/static/js/main.e879dddb.js.map"
+    "main.css": "/static/css/main.35953bd9.css",
+    "main.js": "/static/js/main.0241d1a3.js",
+    "static/media/praveensingh.jpg": "/static/media/praveensingh.f9fc19120f057a820d28.jpg",
+    "static/media/headerpraveen.jpg": "/static/media/headerpraveen.507974c4ee255a7a156b.jpg",
+    "static/media/project9.jpg": "/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project6.jpg": "/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/project7.jpg": "/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/project8.jpg": "/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/project4.jpg": "/static/media/project4.9e2e36250226a4ebb82b.jpg",
+    "static/media/project2.jpg": "/static/media/project2.d4ca506cbd979283014a.jpg",
+    "static/media/project1.jpg": "/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/project3.jpg": "/static/media/project3.746fa9dfecfb9e491ef1.jpg",
+    "static/media/project5.jpg": "/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/Praveenpic.jpg": "/static/media/Praveenpic.b3ccb3f37edf6b355c2e.jpg",
+    "static/media/update1resume.docx": "/static/media/update1resume.cc1f28399a6637d86d6c.docx",
+    "index.html": "/index.html",
+    "main.35953bd9.css.map": "/static/css/main.35953bd9.css.map",
+    "main.0241d1a3.js.map": "/static/js/main.0241d1a3.js.map"
   },
   "entrypoints": [
     "static/css/main.35953bd9.css",
-    "static/js/main.e879dddb.js"
+    "static/js/main.0241d1a3.js"
   ]
 }
