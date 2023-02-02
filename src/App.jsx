@@ -22,7 +22,7 @@ import FloatingNav from './sections/floating.nav/FloatingNav';
       <FAQs/>
       <Contact/>
       <Footer/>
-      <FloatingNav/>
+      {/* <FloatingNav/> */}
       
      </main>
    )

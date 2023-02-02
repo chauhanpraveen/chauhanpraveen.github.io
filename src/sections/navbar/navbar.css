@@ -26,7 +26,13 @@ nav {
 .nav__menu{
     display: flex;
     gap: 3.5rem;
+}
 
+#mMtrigger{
+    display: none;
+    background: none;
+    color:white;
+    margin-left: 1rem;
 }
 #theme__icon{
     background: transparent;
@@ -36,7 +42,46 @@ nav {
 }
 /* HIDE NAV MENU ON TABLETS AND PHONES */
 @media screen and (max-width:1024px){
+    nav {
+        height: 4rem!important;
+    }
     .nav__menu{
-        display: none;    
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        background:var(--color-primary);
+        top:4rem;
+        left:0;
+        width:100%;
+        text-align: center;
+        /* justify-content: center; */
+        align-items: stretch;
+        gap: 0;
+        display: none;
+        animation: skewY 400ms ease-in forwards;   
+    }
+
+    .nav__menu li a {
+        padding:.8rem;
+        display: block;
+    }
+
+    #mMtrigger {
+        display: inline-block;
+        font-size: 2rem;
+    }
+}
+
+@keyframes skewY {
+    from {
+        opacity: 0;
+        transform: scaleY(0);
+        transform-origin: top;
+
+    }
+    to {
+        opacity: 100%;
+        transform: scaleY(1);
+        transform-origin: top;
     }
 }

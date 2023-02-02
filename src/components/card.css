@@ -12,12 +12,12 @@
 }
 
 .card.light {
-    background:var(--color-white);
+    background:var(--color-light );
 }
 
 .card.light:hover {
     background:transparent;
-    border-color:var(--color-white);
+    border-color:var(--color-light);
 }
 
 /* MEDIA QUERIES (phones) */
