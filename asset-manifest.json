@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.47b9a7f5.css",
-    "main.js": "/static/js/main.7f928084.js",
+    "main.js": "/static/js/main.8b83fbfb.js",
     "static/media/praveensingh.jpg": "/static/media/praveensingh.f9fc19120f057a820d28.jpg",
     "static/media/headerpraveen.jpg": "/static/media/headerpraveen.507974c4ee255a7a156b.jpg",
     "static/media/project9.jpg": "/static/media/project9.7e10b78179ee665298cd.jpg",
@@ -11,19 +11,19 @@
     "static/media/project4.jpg": "/static/media/project4.9e2e36250226a4ebb82b.jpg",
     "static/media/project2.jpg": "/static/media/project2.d4ca506cbd979283014a.jpg",
     "static/media/project1.jpg": "/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/Praveen-CV-Mean-Mern.pdf": "/static/media/Praveen-CV-Mean-Mern.e959ea22c9b731c31493.pdf",
     "static/media/project3.jpg": "/static/media/project3.746fa9dfecfb9e491ef1.jpg",
     "static/media/project5.jpg": "/static/media/project5.fdd0c6a0d639a9c75455.jpg",
     "static/media/Praveenpic.jpg": "/static/media/Praveenpic.b3ccb3f37edf6b355c2e.jpg",
-    "static/media/update1resume.docx": "/static/media/update1resume.cc1f28399a6637d86d6c.docx",
     "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
     "static/media/avatar7.jpg": "/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
     "static/media/avatar6.jpg": "/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/index.html",
     "main.47b9a7f5.css.map": "/static/css/main.47b9a7f5.css.map",
-    "main.7f928084.js.map": "/static/js/main.7f928084.js.map"
+    "main.8b83fbfb.js.map": "/static/js/main.8b83fbfb.js.map"
   },
   "entrypoints": [
     "static/css/main.47b9a7f5.css",
-    "static/js/main.7f928084.js"
+    "static/js/main.8b83fbfb.js"
   ]
 }
