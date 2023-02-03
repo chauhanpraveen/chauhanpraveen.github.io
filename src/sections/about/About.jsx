@@ -1,5 +1,5 @@
 import AboutImage from "../../assets/praveensingh.jpg";
-import CV from "../../assets/update1resume.docx";
+import CV from "../../assets/Praveen-CV-Mean-Mern.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
