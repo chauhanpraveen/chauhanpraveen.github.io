@@ -1,5 +1,5 @@
 import AboutImage from "../../assets/praveensingh.jpg";
-import CV from "../../assets/Praveen-CV-Mean-Mern.pdf";
+import CV from "../../assets/Praveen-CV Mean Mern.docx";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
@@ -32,7 +32,7 @@ const About = () => {
             web developer with a Bachelors degree in Computer. My top priority
             is to get your bussines online the right way,gicitry
           </p>
-          <p>Hi im A full-stack Developer</p>
+          <p>As a Full Stack Developer, I am comfortable with both front-end and back-end coding languages, development frameworks and third-parti. I am a team player with a knack for visual design and utility.</p>
           <a href={CV} download className="btn primary">
             Download CV
             <HiDownload />
