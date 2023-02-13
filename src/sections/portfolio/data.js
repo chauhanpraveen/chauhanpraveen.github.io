@@ -11,10 +11,10 @@ import Image9 from '../../assets/project9.jpg'
 const data = [
     {
         id: 1,
-        category: 'uiux',
+        category: 'frontend and backend',
         image: Image1,
-        title: "Project Title One (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "E-commerce Website (UIUX)",
+        desc: "An Angular based E-commerce website for a variety of products catalog which includes buying and selling of goods and services using the debit/credit cards details by implementing RestFul APIs.",
         demo: 'https://chauhanpraveen.github.io',
         github:'https://github.com/chauhanpraveen'
     },
@@ -22,8 +22,8 @@ const data = [
         id: 2,
         category: 'frontend',
         image: Image2,
-        title: "Project Title Two (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Online News Website (Frontend)",
+        desc: "An online News website where I have used Angular for FrontEnd and Restful APIs.Displays different news section based on your selected country",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
@@ -31,8 +31,8 @@ const data = [
         id: 3,
         category: 'frontend',
         image: Image3,
-        title: "Project Title Three (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Restaurant Food delivery App(Frontend)",
+        desc: "Online Food Delivery app for a dedicated restaurant",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
@@ -40,8 +40,8 @@ const data = [
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Angular Form (UIUX)",
+        desc: "An authorized and authenticated form for website login implemented by using Angular Guards for the authentication.",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
@@ -49,8 +49,8 @@ const data = [
         id: 5,
         category: 'uiux',
         image: Image5,
-        title: "Project Title Five (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
+        title: "Employee Management App (UIUX)",
+        desc: "Employee Management App for managing and maintaining employee information using Angular,JSON and mongoDB.",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
@@ -58,8 +58,8 @@ const data = [
         id: 6,
         category: 'frontend',
         image: Image6,
-        title: "Project Title Six (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Portfolio Design (Frontend)",
+        desc: "A Portfolio design project based on ReactJS and Redux with modern hooks.",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
@@ -67,29 +67,20 @@ const data = [
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "ReactJS TODO list (Frontend)",
+        desc: "A ReactJS based TODO list app.",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
     {
         id: 8,
-        category: 'backend',
+        category: 'frontend and backend',
         image: Image8,
-        title: "Project Title Eight (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Resume Maker (Backend)",
+        desc: "ReactJS based Resume maker ( in progress ).",
         demo: 'https://chauhanpraveen.github.io',
         github: 'https://github.com/chauhanpraveen'
     },
-    {
-        id: 9,
-        category: 'frontend',
-        image: Image9,
-        title: "Project Title Nine (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://chauhanpraveen.github.io',
-        github: 'https://github.com/chauhanpraveen'
-    }
 ]
 
 
